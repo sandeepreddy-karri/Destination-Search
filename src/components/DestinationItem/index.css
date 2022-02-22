@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.location-card-container {
+  width: 300px;
+  list-style: none;
+  margin: 20px;
+}
+
+.location-pic {
+  width: 300px;
+}
+
+.name {
+  font-weight: bold;
+}
